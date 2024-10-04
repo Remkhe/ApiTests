@@ -5,12 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b716cd-3be9-44df-ae42-723d41bf3d81" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/props/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/props/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/props/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/props/TestConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/rest/client/TestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/rest/client/TestClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/rest/enums/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/rest/enums/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/rest/model/request/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/rest/model/request/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/rest/model/request/BookData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/rest/model/request/BookData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/rest/model/response/BookResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/rest/model/response/BookResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/rest/model/response/BookValidatableResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/qaway/bookstore/tests/rest/model/response/BookValidatableResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/qaway/bookstore/tests/BookStoreTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/qaway/bookstore/tests/BookStoreTestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/qaway/bookstore/tests/CreateBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/qaway/bookstore/tests/CreateBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/qaway/bookstore/tests/CreateBookTestNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/qaway/bookstore/tests/CreateBookTestNegative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/qaway/bookstore/tests/DeleteBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/qaway/bookstore/tests/DeleteBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/qaway/bookstore/tests/UpdateBookNegativeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/qaway/bookstore/tests/UpdateBookNegativeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/qaway/bookstore/tests/UpdateBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/qaway/bookstore/tests/UpdateBookTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,9 +49,115 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/bookstore-tests1"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.qaway.bookstore.tests.rest.model.response" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DeleteBookTest.testDeleteBook">
+    <configuration name="CreateBookTestNegative" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Bookstore-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.qaway.bookstore.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.qaway.bookstore.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.qaway.bookstore.tests.CreateBookTestNegative" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteBookTest.testDeleteBook" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Bookstore-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.qaway.bookstore.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.qaway.bookstore.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.qaway.bookstore.tests.DeleteBookTest" />
+      <option name="METHOD_NAME" value="testDeleteBook" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateBookNegativeTest.testUpdateBook" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Bookstore-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.qaway.bookstore.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.qaway.bookstore.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.qaway.bookstore.tests.UpdateBookNegativeTest" />
+      <option name="METHOD_NAME" value="testUpdateBook" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateBookTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Bookstore-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.qaway.bookstore.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.qaway.bookstore.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.qaway.bookstore.tests.UpdateBookTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateBookTest.testUpdateBook" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Bookstore-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.qaway.bookstore.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.qaway.bookstore.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.qaway.bookstore.tests.UpdateBookTest" />
+      <option name="METHOD_NAME" value="testUpdateBook" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DeleteBookTest.testDeleteBook" />
+        <item itemvalue="TestNG.UpdateBookNegativeTest.testUpdateBook" />
+        <item itemvalue="TestNG.UpdateBookTest" />
+        <item itemvalue="TestNG.UpdateBookTest.testUpdateBook" />
+        <item itemvalue="TestNG.CreateBookTestNegative" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
